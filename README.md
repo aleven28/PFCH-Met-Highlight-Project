@@ -19,4 +19,8 @@ Step 4: visualization.py
 
 Separate the instancecount.json data into individual dictionaries to make it more digestible for visualization in Tableau Public. Final JSON file called visualization.json. 
 
+Visualizations:
+https://public.tableau.com/views/METHighlightTreemapVisualization/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/METHighlightBubblesVisualization/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
 
