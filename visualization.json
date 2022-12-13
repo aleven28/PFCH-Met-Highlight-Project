@@ -1,0 +1,1734 @@
+[
+  {
+    "instance of": "painting",
+    "count": 509
+  },
+  {
+    "instance of": "figurine",
+    "count": 44
+  },
+  {
+    "instance of": "reredos",
+    "count": 1
+  },
+  {
+    "instance of": "triptych",
+    "count": 3
+  },
+  {
+    "instance of": "altarpiece",
+    "count": 1
+  },
+  {
+    "instance of": "period room",
+    "count": 5
+  },
+  {
+    "instance of": "Roman archaeological site",
+    "count": 1
+  },
+  {
+    "instance of": "visual artwork",
+    "count": 1
+  },
+  {
+    "instance of": "Egyptian temple",
+    "count": 1
+  },
+  {
+    "instance of": "print",
+    "count": 34
+  },
+  {
+    "instance of": "etching print",
+    "count": 4
+  },
+  {
+    "instance of": "copper engraving print",
+    "count": 2
+  },
+  {
+    "instance of": "book of hours",
+    "count": 2
+  },
+  {
+    "instance of": "sculpture",
+    "count": 224
+  },
+  {
+    "instance of": "chariot",
+    "count": 1
+  },
+  {
+    "instance of": "photograph",
+    "count": 74
+  },
+  {
+    "instance of": "studiolo",
+    "count": 1
+  },
+  {
+    "instance of": "collection highlight",
+    "count": 1
+  },
+  {
+    "instance of": "tondo",
+    "count": 1
+  },
+  {
+    "instance of": "work of art",
+    "count": 5
+  },
+  {
+    "instance of": "Votive crown",
+    "count": 1
+  },
+  {
+    "instance of": "crucifix",
+    "count": 2
+  },
+  {
+    "instance of": "metal artwork",
+    "count": 28
+  },
+  {
+    "instance of": "statue",
+    "count": 13
+  },
+  {
+    "instance of": "rhyton",
+    "count": 3
+  },
+  {
+    "instance of": "tomb",
+    "count": 2
+  },
+  {
+    "instance of": "wedding dress",
+    "count": 1
+  },
+  {
+    "instance of": "stele",
+    "count": 6
+  },
+  {
+    "instance of": "poster",
+    "count": 1
+  },
+  {
+    "instance of": "lithograph",
+    "count": 1
+  },
+  {
+    "instance of": "wall painting",
+    "count": 1
+  },
+  {
+    "instance of": "window",
+    "count": 3
+  },
+  {
+    "instance of": "stained glass",
+    "count": 3
+  },
+  {
+    "instance of": "tapestry",
+    "count": 16
+  },
+  {
+    "instance of": "watercolor painting",
+    "count": 16
+  },
+  {
+    "instance of": "paint",
+    "count": 1
+  },
+  {
+    "instance of": "drawing",
+    "count": 84
+  },
+  {
+    "instance of": "harpsichord",
+    "count": 2
+  },
+  {
+    "instance of": "card deck",
+    "count": 1
+  },
+  {
+    "instance of": "literary work",
+    "count": 107
+  },
+  {
+    "instance of": "altar",
+    "count": 4
+  },
+  {
+    "instance of": "dish",
+    "count": 4
+  },
+  {
+    "instance of": "furniture",
+    "count": 37
+  },
+  {
+    "instance of": "textile design",
+    "count": 1
+  },
+  {
+    "instance of": "tableware",
+    "count": 3
+  },
+  {
+    "instance of": "beaker",
+    "count": 1
+  },
+  {
+    "instance of": "enamel",
+    "count": 1
+  },
+  {
+    "instance of": "architectural structure",
+    "count": 1
+  },
+  {
+    "instance of": "doorway",
+    "count": 2
+  },
+  {
+    "instance of": "reliquary",
+    "count": 2
+  },
+  {
+    "instance of": "illuminated manuscript",
+    "count": 13
+  },
+  {
+    "instance of": "plate armor",
+    "count": 7
+  },
+  {
+    "instance of": "scroll painting",
+    "count": 1
+  },
+  {
+    "instance of": "staurotheke",
+    "count": 1
+  },
+  {
+    "instance of": "ivory carving",
+    "count": 14
+  },
+  {
+    "instance of": "handscroll",
+    "count": 7
+  },
+  {
+    "instance of": "pendant",
+    "count": 8
+  },
+  {
+    "instance of": "militaria",
+    "count": 1
+  },
+  {
+    "instance of": "armor",
+    "count": 2
+  },
+  {
+    "instance of": "chair",
+    "count": 4
+  },
+  {
+    "instance of": "basket",
+    "count": 2
+  },
+  {
+    "instance of": "sacred vessel",
+    "count": 2
+  },
+  {
+    "instance of": "earthenware",
+    "count": 2
+  },
+  {
+    "instance of": "bowl",
+    "count": 15
+  },
+  {
+    "instance of": "vase",
+    "count": 38
+  },
+  {
+    "instance of": "glass",
+    "count": 18
+  },
+  {
+    "instance of": "side chair",
+    "count": 6
+  },
+  {
+    "instance of": "container",
+    "count": 6
+  },
+  {
+    "instance of": "pottery ware",
+    "count": 12
+  },
+  {
+    "instance of": "plate",
+    "count": 5
+  },
+  {
+    "instance of": "tea urn",
+    "count": 1
+  },
+  {
+    "instance of": "wardrobe",
+    "count": 1
+  },
+  {
+    "instance of": "bust",
+    "count": 4
+  },
+  {
+    "instance of": "woven coverlet",
+    "count": 2
+  },
+  {
+    "instance of": "sampler",
+    "count": 5
+  },
+  {
+    "instance of": "pitcher",
+    "count": 3
+  },
+  {
+    "instance of": "card table",
+    "count": 1
+  },
+  {
+    "instance of": "crossbow",
+    "count": 1
+  },
+  {
+    "instance of": "pistol",
+    "count": 3
+  },
+  {
+    "instance of": "spurs",
+    "count": 1
+  },
+  {
+    "instance of": "\u014d-yoroi",
+    "count": 1
+  },
+  {
+    "instance of": "Japanese armor",
+    "count": 2
+  },
+  {
+    "instance of": "sword",
+    "count": 14
+  },
+  {
+    "instance of": "helmet",
+    "count": 14
+  },
+  {
+    "instance of": "mask",
+    "count": 7
+  },
+  {
+    "instance of": "men-yoroi",
+    "count": 1
+  },
+  {
+    "instance of": "targe",
+    "count": 1
+  },
+  {
+    "instance of": "shield",
+    "count": 4
+  },
+  {
+    "instance of": "Japanese sword mountings",
+    "count": 1
+  },
+  {
+    "instance of": "powder horn",
+    "count": 1
+  },
+  {
+    "instance of": "flintlock rifle",
+    "count": 2
+  },
+  {
+    "instance of": "rifle",
+    "count": 1
+  },
+  {
+    "instance of": "flintlock",
+    "count": 1
+  },
+  {
+    "instance of": "dagger",
+    "count": 3
+  },
+  {
+    "instance of": "scabbard",
+    "count": 3
+  },
+  {
+    "instance of": "tunic",
+    "count": 3
+  },
+  {
+    "instance of": "blade",
+    "count": 1
+  },
+  {
+    "instance of": "tant\u014d",
+    "count": 1
+  },
+  {
+    "instance of": "shotgun",
+    "count": 1
+  },
+  {
+    "instance of": "revolver",
+    "count": 1
+  },
+  {
+    "instance of": "hanging scroll",
+    "count": 4
+  },
+  {
+    "instance of": "woodcut print",
+    "count": 1
+  },
+  {
+    "instance of": "axe",
+    "count": 1
+  },
+  {
+    "instance of": "Indonesian ceremonial bronze axe",
+    "count": 1
+  },
+  {
+    "instance of": "folio",
+    "count": 4
+  },
+  {
+    "instance of": "celadon",
+    "count": 1
+  },
+  {
+    "instance of": "scroll",
+    "count": 3
+  },
+  {
+    "instance of": "manuscript",
+    "count": 4
+  },
+  {
+    "instance of": "box",
+    "count": 7
+  },
+  {
+    "instance of": "by\u014dbu",
+    "count": 2
+  },
+  {
+    "instance of": "lacquerware",
+    "count": 1
+  },
+  {
+    "instance of": "emakimono",
+    "count": 1
+  },
+  {
+    "instance of": "kosode",
+    "count": 1
+  },
+  {
+    "instance of": "pichhwai",
+    "count": 1
+  },
+  {
+    "instance of": "suit",
+    "count": 5
+  },
+  {
+    "instance of": "cape",
+    "count": 4
+  },
+  {
+    "instance of": "mantle",
+    "count": 1
+  },
+  {
+    "instance of": "shoe",
+    "count": 1
+  },
+  {
+    "instance of": "sack-back gown",
+    "count": 2
+  },
+  {
+    "instance of": "glove",
+    "count": 1
+  },
+  {
+    "instance of": "robe \u00e0 l'anglaise",
+    "count": 1
+  },
+  {
+    "instance of": "tailcoat",
+    "count": 1
+  },
+  {
+    "instance of": "ensemble",
+    "count": 8
+  },
+  {
+    "instance of": "coat",
+    "count": 3
+  },
+  {
+    "instance of": "round gown",
+    "count": 1
+  },
+  {
+    "instance of": "dress",
+    "count": 16
+  },
+  {
+    "instance of": "jacket",
+    "count": 2
+  },
+  {
+    "instance of": "waistcoat",
+    "count": 1
+  },
+  {
+    "instance of": "evening dress",
+    "count": 21
+  },
+  {
+    "instance of": "vest",
+    "count": 1
+  },
+  {
+    "instance of": "bodice",
+    "count": 1
+  },
+  {
+    "instance of": "doublet",
+    "count": 1
+  },
+  {
+    "instance of": "riding coat",
+    "count": 1
+  },
+  {
+    "instance of": "label",
+    "count": 1
+  },
+  {
+    "instance of": "corset",
+    "count": 1
+  },
+  {
+    "instance of": "bedroom",
+    "count": 1
+  },
+  {
+    "instance of": "relief sculpture",
+    "count": 14
+  },
+  {
+    "instance of": "clockwork",
+    "count": 1
+  },
+  {
+    "instance of": "celestial globe",
+    "count": 1
+  },
+  {
+    "instance of": "goblet",
+    "count": 3
+  },
+  {
+    "instance of": "ewer",
+    "count": 7
+  },
+  {
+    "instance of": "cabinet",
+    "count": 2
+  },
+  {
+    "instance of": "dining room",
+    "count": 2
+  },
+  {
+    "instance of": "patio",
+    "count": 1
+  },
+  {
+    "instance of": "proposed building or structure",
+    "count": 1
+  },
+  {
+    "instance of": "scale model",
+    "count": 1
+  },
+  {
+    "instance of": "embroidery",
+    "count": 4
+  },
+  {
+    "instance of": "wall hanging",
+    "count": 2
+  },
+  {
+    "instance of": "table",
+    "count": 4
+  },
+  {
+    "instance of": "panelling",
+    "count": 2
+  },
+  {
+    "instance of": "wine cooler",
+    "count": 1
+  },
+  {
+    "instance of": "fountain",
+    "count": 1
+  },
+  {
+    "instance of": "spoon rest",
+    "count": 1
+  },
+  {
+    "instance of": "chalice",
+    "count": 3
+  },
+  {
+    "instance of": "room",
+    "count": 1
+  },
+  {
+    "instance of": "casket",
+    "count": 2
+  },
+  {
+    "instance of": "name vase",
+    "count": 1
+  },
+  {
+    "instance of": "Greek vase",
+    "count": 4
+  },
+  {
+    "instance of": "agate",
+    "count": 1
+  },
+  {
+    "instance of": "archaeological artifact",
+    "count": 9
+  },
+  {
+    "instance of": "fibula",
+    "count": 3
+  },
+  {
+    "instance of": "fresco",
+    "count": 1
+  },
+  {
+    "instance of": "head of a statue",
+    "count": 20
+  },
+  {
+    "instance of": "alabastron",
+    "count": 1
+  },
+  {
+    "instance of": "scaraboid seal",
+    "count": 1
+  },
+  {
+    "instance of": "cameo",
+    "count": 1
+  },
+  {
+    "instance of": "commemorative plaque",
+    "count": 2
+  },
+  {
+    "instance of": "belly amphoras typus C",
+    "count": 1
+  },
+  {
+    "instance of": "mirror",
+    "count": 1
+  },
+  {
+    "instance of": "bronze sculpture",
+    "count": 3
+  },
+  {
+    "instance of": "collaging",
+    "count": 1
+  },
+  {
+    "instance of": "version, edition, or translation",
+    "count": 4
+  },
+  {
+    "instance of": "negative",
+    "count": 1
+  },
+  {
+    "instance of": "bottle",
+    "count": 7
+  },
+  {
+    "instance of": "woven fabric",
+    "count": 9
+  },
+  {
+    "instance of": "plug",
+    "count": 2
+  },
+  {
+    "instance of": "death mask",
+    "count": 1
+  },
+  {
+    "instance of": "vessel",
+    "count": 1
+  },
+  {
+    "instance of": "censer",
+    "count": 4
+  },
+  {
+    "instance of": "drum",
+    "count": 2
+  },
+  {
+    "instance of": "fly-whisk",
+    "count": 1
+  },
+  {
+    "instance of": "tool handle",
+    "count": 1
+  },
+  {
+    "instance of": "featherwork",
+    "count": 1
+  },
+  {
+    "instance of": "figure",
+    "count": 39
+  },
+  {
+    "instance of": "pole",
+    "count": 2
+  },
+  {
+    "instance of": "carving",
+    "count": 2
+  },
+  {
+    "instance of": "snuffbox",
+    "count": 1
+  },
+  {
+    "instance of": "salt cellar",
+    "count": 2
+  },
+  {
+    "instance of": "banner",
+    "count": 1
+  },
+  {
+    "instance of": "Poporo",
+    "count": 1
+  },
+  {
+    "instance of": "draped garment",
+    "count": 1
+  },
+  {
+    "instance of": "buckle",
+    "count": 2
+  },
+  {
+    "instance of": "ceramic",
+    "count": 1
+  },
+  {
+    "instance of": "lintel",
+    "count": 1
+  },
+  {
+    "instance of": "headdress",
+    "count": 1
+  },
+  {
+    "instance of": "plaque",
+    "count": 5
+  },
+  {
+    "instance of": "furniture component",
+    "count": 4
+  },
+  {
+    "instance of": "clay pot",
+    "count": 1
+  },
+  {
+    "instance of": "cup with stem",
+    "count": 3
+  },
+  {
+    "instance of": "medal",
+    "count": 1
+  },
+  {
+    "instance of": "cylinder seal",
+    "count": 2
+  },
+  {
+    "instance of": "textile",
+    "count": 2
+  },
+  {
+    "instance of": "kaftan",
+    "count": 3
+  },
+  {
+    "instance of": "clay tablet",
+    "count": 2
+  },
+  {
+    "instance of": "jewelry",
+    "count": 2
+  },
+  {
+    "instance of": "Statues of Gudea",
+    "count": 1
+  },
+  {
+    "instance of": "ax head",
+    "count": 1
+  },
+  {
+    "instance of": "clay nail",
+    "count": 1
+  },
+  {
+    "instance of": "Hurrian foundation pegs",
+    "count": 1
+  },
+  {
+    "instance of": "necklace",
+    "count": 2
+  },
+  {
+    "instance of": "silhouette",
+    "count": 1
+  },
+  {
+    "instance of": "wallpaper",
+    "count": 1
+  },
+  {
+    "instance of": "astrolabe",
+    "count": 1
+  },
+  {
+    "instance of": "brasero",
+    "count": 2
+  },
+  {
+    "instance of": "jug",
+    "count": 5
+  },
+  {
+    "instance of": "door",
+    "count": 2
+  },
+  {
+    "instance of": "tile",
+    "count": 1
+  },
+  {
+    "instance of": "carpet",
+    "count": 16
+  },
+  {
+    "instance of": "velvet",
+    "count": 2
+  },
+  {
+    "instance of": "codex",
+    "count": 37
+  },
+  {
+    "instance of": "manuscript illumination",
+    "count": 9
+  },
+  {
+    "instance of": "mosque lamp",
+    "count": 1
+  },
+  {
+    "instance of": "finial",
+    "count": 1
+  },
+  {
+    "instance of": "lampas",
+    "count": 4
+  },
+  {
+    "instance of": "textile artwork",
+    "count": 5
+  },
+  {
+    "instance of": "calligraphic work",
+    "count": 5
+  },
+  {
+    "instance of": "tiraz",
+    "count": 1
+  },
+  {
+    "instance of": "cenotaph",
+    "count": 1
+  },
+  {
+    "instance of": "tughra",
+    "count": 2
+  },
+  {
+    "instance of": "mihrab",
+    "count": 1
+  },
+  {
+    "instance of": "lantern",
+    "count": 1
+  },
+  {
+    "instance of": "glass bottle",
+    "count": 1
+  },
+  {
+    "instance of": "bead",
+    "count": 1
+  },
+  {
+    "instance of": "Shamsa",
+    "count": 1
+  },
+  {
+    "instance of": "ceiling",
+    "count": 1
+  },
+  {
+    "instance of": "arm ring",
+    "count": 1
+  },
+  {
+    "instance of": "glassware",
+    "count": 1
+  },
+  {
+    "instance of": "qa'a",
+    "count": 1
+  },
+  {
+    "instance of": "Persian miniature",
+    "count": 1
+  },
+  {
+    "instance of": "inscription",
+    "count": 1
+  },
+  {
+    "instance of": "tent",
+    "count": 1
+  },
+  {
+    "instance of": "album leaf",
+    "count": 1
+  },
+  {
+    "instance of": "hookah",
+    "count": 1
+  },
+  {
+    "instance of": "window screen",
+    "count": 1
+  },
+  {
+    "instance of": "pyxis",
+    "count": 1
+  },
+  {
+    "instance of": "Goa stone",
+    "count": 1
+  },
+  {
+    "instance of": "tile art",
+    "count": 1
+  },
+  {
+    "instance of": "qalamd\u0101n",
+    "count": 1
+  },
+  {
+    "instance of": "bifolium",
+    "count": 1
+  },
+  {
+    "instance of": "pastel",
+    "count": 3
+  },
+  {
+    "instance of": "watch",
+    "count": 1
+  },
+  {
+    "instance of": "aquamanile",
+    "count": 3
+  },
+  {
+    "instance of": "picture frame",
+    "count": 2
+  },
+  {
+    "instance of": "pectoral",
+    "count": 4
+  },
+  {
+    "instance of": "reliquary chest",
+    "count": 2
+  },
+  {
+    "instance of": "church tabernacle",
+    "count": 1
+  },
+  {
+    "instance of": "nativity scene",
+    "count": 1
+  },
+  {
+    "instance of": "chasuble",
+    "count": 1
+  },
+  {
+    "instance of": "antependium",
+    "count": 1
+  },
+  {
+    "instance of": "brooch",
+    "count": 4
+  },
+  {
+    "instance of": "pointer",
+    "count": 1
+  },
+  {
+    "instance of": "mirror case",
+    "count": 1
+  },
+  {
+    "instance of": "bowl fibula",
+    "count": 1
+  },
+  {
+    "instance of": "lamp",
+    "count": 1
+  },
+  {
+    "instance of": "diptych",
+    "count": 1
+  },
+  {
+    "instance of": "mosaic",
+    "count": 1
+  },
+  {
+    "instance of": "champlev\u00e9",
+    "count": 2
+  },
+  {
+    "instance of": "cloister",
+    "count": 2
+  },
+  {
+    "instance of": "sarcophagus",
+    "count": 1
+  },
+  {
+    "instance of": "portal",
+    "count": 1
+  },
+  {
+    "instance of": "neck ring",
+    "count": 1
+  },
+  {
+    "instance of": "washstand",
+    "count": 1
+  },
+  {
+    "instance of": "thin bell",
+    "count": 1
+  },
+  {
+    "instance of": "aerophone",
+    "count": 1
+  },
+  {
+    "instance of": "alto recorder",
+    "count": 1
+  },
+  {
+    "instance of": "soprano recorder",
+    "count": 1
+  },
+  {
+    "instance of": "transverse flute",
+    "count": 5
+  },
+  {
+    "instance of": "natural trumpet",
+    "count": 2
+  },
+  {
+    "instance of": "hunting horn",
+    "count": 1
+  },
+  {
+    "instance of": "claviorgan",
+    "count": 1
+  },
+  {
+    "instance of": "virginal",
+    "count": 2
+  },
+  {
+    "instance of": "grand piano",
+    "count": 3
+  },
+  {
+    "instance of": "taiko",
+    "count": 1
+  },
+  {
+    "instance of": "ottavino (virginal)",
+    "count": 1
+  },
+  {
+    "instance of": "violin",
+    "count": 5
+  },
+  {
+    "instance of": "Stradivarius",
+    "count": 2
+  },
+  {
+    "instance of": "spinet",
+    "count": 1
+  },
+  {
+    "instance of": "dizi",
+    "count": 1
+  },
+  {
+    "instance of": "lute",
+    "count": 10
+  },
+  {
+    "instance of": "viol",
+    "count": 1
+  },
+  {
+    "instance of": "clavichord",
+    "count": 1
+  },
+  {
+    "instance of": "dungchen",
+    "count": 1
+  },
+  {
+    "instance of": "bass viol",
+    "count": 1
+  },
+  {
+    "instance of": "accordion",
+    "count": 1
+  },
+  {
+    "instance of": "kamancheh",
+    "count": 1
+  },
+  {
+    "instance of": "Guqin",
+    "count": 1
+  },
+  {
+    "instance of": "bassoon",
+    "count": 2
+  },
+  {
+    "instance of": "musical clock",
+    "count": 1
+  },
+  {
+    "instance of": "cornet",
+    "count": 1
+  },
+  {
+    "instance of": "musette de cour",
+    "count": 1
+  },
+  {
+    "instance of": "archlute",
+    "count": 1
+  },
+  {
+    "instance of": "clarinet",
+    "count": 2
+  },
+  {
+    "instance of": "pipe organ",
+    "count": 1
+  },
+  {
+    "instance of": "oboe",
+    "count": 2
+  },
+  {
+    "instance of": "piano",
+    "count": 1
+  },
+  {
+    "instance of": "post horn",
+    "count": 1
+  },
+  {
+    "instance of": "snare drum",
+    "count": 1
+  },
+  {
+    "instance of": "guitar",
+    "count": 1
+  },
+  {
+    "instance of": "dramyin",
+    "count": 1
+  },
+  {
+    "instance of": "whistle",
+    "count": 1
+  },
+  {
+    "instance of": "cornett",
+    "count": 1
+  },
+  {
+    "instance of": "cittern",
+    "count": 1
+  },
+  {
+    "instance of": "cor anglais",
+    "count": 1
+  },
+  {
+    "instance of": "walking stick",
+    "count": 1
+  },
+  {
+    "instance of": "regal",
+    "count": 1
+  },
+  {
+    "instance of": "violoncello piccolo",
+    "count": 1
+  },
+  {
+    "instance of": "koto",
+    "count": 1
+  },
+  {
+    "instance of": "viola d'amore",
+    "count": 1
+  },
+  {
+    "instance of": "Hardanger fiddle",
+    "count": 1
+  },
+  {
+    "instance of": "bowl drums",
+    "count": 1
+  },
+  {
+    "instance of": "cosmetic container",
+    "count": 1
+  },
+  {
+    "instance of": "handle",
+    "count": 3
+  },
+  {
+    "instance of": "ship model",
+    "count": 1
+  },
+  {
+    "instance of": "scarab",
+    "count": 2
+  },
+  {
+    "instance of": "tablet",
+    "count": 1
+  },
+  {
+    "instance of": "coffin",
+    "count": 2
+  },
+  {
+    "instance of": "amphora",
+    "count": 1
+  },
+  {
+    "instance of": "mural",
+    "count": 1
+  },
+  {
+    "instance of": "mechanical toy",
+    "count": 1
+  },
+  {
+    "instance of": "clapper",
+    "count": 1
+  },
+  {
+    "instance of": "canopic jar",
+    "count": 1
+  },
+  {
+    "instance of": "jar",
+    "count": 5
+  },
+  {
+    "instance of": "art of ancient Egypt",
+    "count": 1
+  },
+  {
+    "instance of": "whip",
+    "count": 1
+  },
+  {
+    "instance of": "palette",
+    "count": 1
+  },
+  {
+    "instance of": "architectural model",
+    "count": 1
+  },
+  {
+    "instance of": "arched harps",
+    "count": 1
+  },
+  {
+    "instance of": "bracelet",
+    "count": 1
+  },
+  {
+    "instance of": "inlay",
+    "count": 1
+  },
+  {
+    "instance of": "block statue",
+    "count": 3
+  },
+  {
+    "instance of": "amulet",
+    "count": 1
+  },
+  {
+    "instance of": "funerary art",
+    "count": 1
+  },
+  {
+    "instance of": "ushabti",
+    "count": 1
+  },
+  {
+    "instance of": "spoon",
+    "count": 1
+  },
+  {
+    "instance of": "wood engraving print",
+    "count": 1
+  },
+  {
+    "instance of": "autograph",
+    "count": 1
+  },
+  {
+    "instance of": "bookbinding",
+    "count": 1
+  },
+  {
+    "instance of": "situla",
+    "count": 1
+  },
+  {
+    "instance of": "b\u00facaro",
+    "count": 2
+  },
+  {
+    "instance of": "individual copy of a book",
+    "count": 1
+  },
+  {
+    "instance of": "daguerreotype image",
+    "count": 1
+  },
+  {
+    "instance of": "punggyeong",
+    "count": 1
+  },
+  {
+    "instance of": "teapot",
+    "count": 2
+  },
+  {
+    "instance of": "traditional African mask",
+    "count": 1
+  },
+  {
+    "instance of": "Hounds and Jackals",
+    "count": 1
+  },
+  {
+    "instance of": "evening wear",
+    "count": 20
+  },
+  {
+    "instance of": "tailored suit",
+    "count": 1
+  },
+  {
+    "instance of": "ball gown",
+    "count": 4
+  },
+  {
+    "instance of": "coatdress",
+    "count": 1
+  },
+  {
+    "instance of": "sandal",
+    "count": 1
+  },
+  {
+    "instance of": "architectural ensemble",
+    "count": 2
+  },
+  {
+    "instance of": "blouse",
+    "count": 1
+  },
+  {
+    "instance of": "pantsuit",
+    "count": 1
+  },
+  {
+    "instance of": "opera coat",
+    "count": 1
+  },
+  {
+    "instance of": "jumpsuit",
+    "count": 1
+  },
+  {
+    "instance of": "book",
+    "count": 1
+  },
+  {
+    "instance of": "stool",
+    "count": 1
+  },
+  {
+    "instance of": "sasando",
+    "count": 1
+  },
+  {
+    "instance of": "bisj pole",
+    "count": 1
+  },
+  {
+    "instance of": "quilt",
+    "count": 5
+  },
+  {
+    "instance of": "panel",
+    "count": 3
+  },
+  {
+    "instance of": "cup",
+    "count": 1
+  },
+  {
+    "instance of": "armchair",
+    "count": 1
+  },
+  {
+    "instance of": "thangka",
+    "count": 1
+  },
+  {
+    "instance of": "baseball card",
+    "count": 1
+  },
+  {
+    "instance of": "couch",
+    "count": 1
+  },
+  {
+    "instance of": "installation artwork",
+    "count": 1
+  },
+  {
+    "instance of": "storage jar",
+    "count": 2
+  },
+  {
+    "instance of": "hand mirror",
+    "count": 1
+  },
+  {
+    "instance of": "water jar",
+    "count": 2
+  },
+  {
+    "instance of": "Polaroid print",
+    "count": 1
+  },
+  {
+    "instance of": "time-based media",
+    "count": 1
+  },
+  {
+    "instance of": "bench",
+    "count": 1
+  },
+  {
+    "instance of": "chest of drawers",
+    "count": 2
+  },
+  {
+    "instance of": "compote bowl",
+    "count": 1
+  },
+  {
+    "instance of": "chest",
+    "count": 2
+  },
+  {
+    "instance of": "kast",
+    "count": 1
+  },
+  {
+    "instance of": "wall panel",
+    "count": 1
+  },
+  {
+    "instance of": "sauce boat",
+    "count": 1
+  },
+  {
+    "instance of": "stained glass window",
+    "count": 1
+  },
+  {
+    "instance of": "tankard",
+    "count": 2
+  },
+  {
+    "instance of": "pier table",
+    "count": 1
+  },
+  {
+    "instance of": "chocolate pot",
+    "count": 1
+  },
+  {
+    "instance of": "ritual board",
+    "count": 1
+  },
+  {
+    "instance of": "tanggu",
+    "count": 1
+  },
+  {
+    "instance of": "musical instrument",
+    "count": 1
+  },
+  {
+    "instance of": "saw sam sai",
+    "count": 1
+  },
+  {
+    "instance of": "balafon",
+    "count": 1
+  },
+  {
+    "instance of": "dance wand",
+    "count": 1
+  },
+  {
+    "instance of": "rattle",
+    "count": 2
+  },
+  {
+    "instance of": "saung",
+    "count": 1
+  },
+  {
+    "instance of": "Apache fiddle",
+    "count": 1
+  },
+  {
+    "instance of": "dabakan",
+    "count": 1
+  },
+  {
+    "instance of": "shankha",
+    "count": 1
+  },
+  {
+    "instance of": "bedcover",
+    "count": 1
+  },
+  {
+    "instance of": "club",
+    "count": 2
+  },
+  {
+    "instance of": "decanter",
+    "count": 1
+  },
+  {
+    "instance of": "moccasin",
+    "count": 1
+  },
+  {
+    "instance of": "comb",
+    "count": 1
+  },
+  {
+    "instance of": "bag",
+    "count": 2
+  },
+  {
+    "instance of": "counterweight",
+    "count": 1
+  },
+  {
+    "instance of": "frontlet",
+    "count": 1
+  },
+  {
+    "instance of": "pouch",
+    "count": 2
+  },
+  {
+    "instance of": "robe",
+    "count": 1
+  },
+  {
+    "instance of": "sash",
+    "count": 3
+  },
+  {
+    "instance of": "shoulder bag",
+    "count": 2
+  },
+  {
+    "instance of": "parfleche",
+    "count": 1
+  },
+  {
+    "instance of": "cradleboard",
+    "count": 2
+  },
+  {
+    "instance of": "clothing",
+    "count": 1
+  },
+  {
+    "instance of": "tipi",
+    "count": 1
+  },
+  {
+    "instance of": "pipe bag",
+    "count": 1
+  },
+  {
+    "instance of": "Hopi Kachina dolls",
+    "count": 1
+  },
+  {
+    "instance of": "ladle",
+    "count": 1
+  },
+  {
+    "instance of": "goggles",
+    "count": 1
+  },
+  {
+    "instance of": "missal",
+    "count": 1
+  },
+  {
+    "instance of": "serape",
+    "count": 3
+  },
+  {
+    "instance of": "blanket",
+    "count": 3
+  },
+  {
+    "instance of": "ritual vessel",
+    "count": 1
+  },
+  {
+    "instance of": "taus",
+    "count": 1
+  },
+  {
+    "instance of": "bell",
+    "count": 1
+  },
+  {
+    "instance of": "damaru",
+    "count": 1
+  },
+  {
+    "instance of": "ennanga",
+    "count": 1
+  },
+  {
+    "instance of": "clock",
+    "count": 1
+  }
+]
